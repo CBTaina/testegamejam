@@ -1,0 +1,1 @@
+speed = 12; // Velocidade do tiro (variável nativa do GameMaker)speed = 12; // Velocidade do tiro (variável nativa do GameMaker)

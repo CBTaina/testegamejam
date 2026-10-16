@@ -1,0 +1,25 @@
+{
+  "FolderOrderSettings":[
+    {"name":"cena","order":1,"path":"folders/cena.yy",},
+    {"name":"objeto","order":3,"path":"folders/objeto.yy",},
+    {"name":"sprite","order":2,"path":"folders/sprite.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_botao_iniciar","order":6,"path":"objects/obj_botao_iniciar/obj_botao_iniciar.yy",},
+    {"name":"obj_botao_sair","order":7,"path":"objects/obj_botao_sair/obj_botao_sair.yy",},
+    {"name":"obj_controller","order":5,"path":"objects/obj_controller/obj_controller.yy",},
+    {"name":"obj_fireball","order":1,"path":"objects/obj_fireball/obj_fireball.yy",},
+    {"name":"obj_hamburger","order":3,"path":"objects/obj_hamburger/obj_hamburger.yy",},
+    {"name":"obj_hotdog","order":4,"path":"objects/obj_hotdog/obj_hotdog.yy",},
+    {"name":"obj_player","order":2,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"spr_chao_2","order":1,"path":"sprites/spr_chao_2/spr_chao_2.yy",},
+    {"name":"spr_chao_3","order":2,"path":"sprites/spr_chao_3/spr_chao_3.yy",},
+    {"name":"spr_colisao_botao","order":8,"path":"sprites/spr_colisao_botao/spr_colisao_botao.yy",},
+    {"name":"spr_fireball","order":6,"path":"sprites/spr_fireball/spr_fireball.yy",},
+    {"name":"spr_hamburguer","order":4,"path":"sprites/spr_hamburguer/spr_hamburguer.yy",},
+    {"name":"spr_hotdog","order":5,"path":"sprites/spr_hotdog/spr_hotdog.yy",},
+    {"name":"spr_player","order":3,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"spr_tela_inicial","order":7,"path":"sprites/spr_tela_inicial/spr_tela_inicial.yy",},
+  ],
+}
